@@ -36,3 +36,13 @@ This project proposes a modified version of the Bat Algorithm adapted for discre
 ## Notes
 
 The proposed algorithm achieves similar or better solutions compared to Genetic Algorithms, often reaching optimal solutions in fewer iterations.
+
+## How to Run
+- Compile the project:
+```bash
+javac *.java
+```
+- Run the program:
+```bash
+java BAT
+```
